@@ -1,0 +1,14 @@
+.board {
+    border-style: solid;
+    border-color: bisque;
+    border-width: 5px;
+    width: 80vw;
+    height: 60vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardstyle {
+    width: 20vw;
+    height: 20vw;
+}
